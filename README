@@ -1,5 +1,7 @@
 [![Known Vulnerabilities](https://snyk.io/test/github/demiantradel/gcpedia/badge.svg)](https://snyk.io/test/github/demiantradel/gcpedia)
 
+<a href="https://snyk.io/test/github/demiantradel/gcpedia"><img src="https://snyk.io/test/github/demiantradel/gcpedia/badge.svg" alt="Known Vulnerabilities" data-canonical-src="https://snyk.io/test/github/demiantradel/gcpedia" style="max-width:100%;"></a>
+
 == MediaWiki ==
 
 MediaWiki is a free and open-source wiki software package written in PHP. It
